@@ -9,6 +9,7 @@
 <ul>
 <li>Css</li>
 <li>Javascript</li>
+<li>Lua</li>
 </ul>
 <h2>Preset</h2>
 <p>For the bot to work, it needs all the permissions shown in the image below.</p>
