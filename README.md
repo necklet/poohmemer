@@ -18,4 +18,3 @@
 <p>Bot use prefix: ! or custom. Example: !vote</p>
 <p>For a complete list of commands, ask for help.</p>
 </blockquote>
-https://top.gg/api//bots/838014526406000662/stats
