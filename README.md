@@ -1,4 +1,4 @@
-# Poohmemer
+Poohmemer
 <h2>Getting Started</h2>
 <p>These instructions will help you get started using the bot and make sure it is configured correctly on your server. If you're having trouble with the bot, be sure to repeat these steps again or join a support server.</p>
 <p>Developers worked on this project:</p>
