@@ -13,3 +13,8 @@
 <h2>Preset</h2>
 <p>For the bot to work, it needs all the permissions shown in the image below.</p>
 <p><img src="https://cdn.discordapp.com/attachments/838412812555517985/838419219774701619/perms.png" width="500" height="318" /></p>
+<h2>Using the bot</h2>
+<blockquote>
+<p>Bot use prefix: ! or custom. Example: !vote</p>
+<p>For a complete list of commands, ask for help.</p>
+</blockquote>
