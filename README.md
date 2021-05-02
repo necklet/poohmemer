@@ -12,4 +12,4 @@
 </ul>
 <h2>Preset</h2>
 <p>For the bot to work, it needs all the permissions shown in the image below.</p>
-<p><img src="https://cdn.discordapp.com/attachments/838412812555517985/838419219774701619/perms.png" alt="" width="640" height="406" /></p>
+<p><img src="https://cdn.discordapp.com/attachments/838412812555517985/838419219774701619/perms.png" width="400" height="254" /></p>
